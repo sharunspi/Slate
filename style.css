@@ -1,0 +1,37 @@
+body{
+    top: 0;
+    left: 0;
+    margin: 0;
+    background-color: rgb(228, 220, 205);
+}
+/* #deb894  border*/
+/* #36425d canvas*/
+#border{
+    background-color:#deb894 ;
+
+}
+.border-1{
+    width: 800px;
+    height: 50px;
+    margin-left: 273px;
+    margin-top: 78px;
+}
+.border-2{
+    position: absolute;
+    width: 50px;
+    height: 439px;
+    margin-left: 1023px;
+}
+.border-3{
+    width: 800px;
+    height: 50px;
+    margin-left: 273px;
+    margin-top: 390px;
+}
+.border-4{
+    position: absolute;
+    width: 50px;
+    height: 439px;
+    margin-left: 273px;
+    margin-top: -445px;
+}
