@@ -42,10 +42,13 @@ body{
     margin-top: 50px;
     margin-left: 323px;
     position: absolute;
+    cursor: url("cursor.cur") , auto;
 }
 canvas{
     width: 701px;
     height: 391px;
     margin-top: 50px;
     margin-left: 323px; 
+    cursor: url("cursor.cur") , auto;
+    z-index: +10;
 }
