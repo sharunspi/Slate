@@ -35,3 +35,17 @@ body{
     margin-left: 273px;
     margin-top: -445px;
 }
+#canvasArea{
+    background-color: #36425d;
+    width: 701px;
+    height: 391px;
+    margin-top: 50px;
+    margin-left: 323px;
+    position: absolute;
+}
+canvas{
+    width: 701px;
+    height: 391px;
+    margin-top: 50px;
+    margin-left: 323px; 
+}
